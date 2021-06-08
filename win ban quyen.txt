@@ -1,0 +1,23 @@
+
+vao cmd chon run with admin( tat mang internet truoc khi chay)
+paste dong lenh nay vao
+
+cscript slmgr.vbs /upk
+cscript slmgr.vbs /ckms
+cscript slmgr.vbs /ipk CFC3N-326MY-3C39Q-H88F9-2YT44
+cscript slmgr.vbs /dti>step2.txt
+start step2.txt
+slui 4
+exit
+
+
+
+
+
+
+
+Installation ID: 241108135539342877495605084681456148630043774012226966930558720
+
+
+Confirmation ID (CID)
+533434-400431-545646-880890-259915-633920-805871-576533
