@@ -1,0 +1,6 @@
+HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{5ED60779-4DE2-4E07-B862-974CA4FF2E9C}
+HKEY_CLASSES_ROOT\Wow6432Node\CLSID\{07999AC3-058B-40BF-984F-69EB1E554CA7}
+HKEY_CURRENT_USER\Software\DownloadManager
+
+
+Nếu không xóa được thì chuột phải chọn Permission, chọn Advanced allow hết tất cả 
